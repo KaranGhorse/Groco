@@ -1,12 +1,4 @@
 
-gsap.from(".header",{
-    y:-80,
-    duration: .7,
-})
-
-
-
-
 
 let searchFrom = document.querySelector('.search-form');
 
